@@ -1,0 +1,14 @@
+html, body, header, #intro
+{
+    height: 100%;
+}
+
+#intro
+{
+    background: url("https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpgb")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
